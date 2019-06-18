@@ -63,3 +63,4 @@ Wuhan University “Outstanding Student” for Five Consecutive Years, 2014-2018
 ## Conference Review
 
 International Conference on Image, Video Processing and Artificial Intelligence(IVPAI2019)
+
