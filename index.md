@@ -33,7 +33,7 @@ BSc in Geomatics Engineering, Wuhan University, China
 - Z. Tang, Y. Chen, S. Ye, R. Hu, H. Wang, J. He, Q. Huang and S. Chang, “[Fully Memristive Spiking-Neuron Learning Framework and Its Applications on Pattern Recognition and Edge Detection](https://arxiv.org/abs/1901.05258)”, <I>IEEE Transactions on Emerging Topics in Computational Intelligence</I>. 
 
 ## 2018
-- Guo, W.; Wu, R.; Chen, Y. *; Zhu, X. "[Deep Learning Scene Recognition Method Based on Localization Enhancement](https://doi.org/10.3390/s18103376)", <I>Sensors</I>.
+- Guo, W., Wu, R., Chen, Y. *,  Zhu, X. "[Deep Learning Scene Recognition Method Based on Localization Enhancement](https://doi.org/10.3390/s18103376)", <I>Sensors</I>.
 
 
 #   AWARDS                                                          
