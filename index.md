@@ -13,17 +13,17 @@ Contact E-mail: yanhuachen@whu.edu.cn
 
 #  EDUCATION                                                   
 ## 2019-
-PhD in Department of Geography, University of Hong Kong, Hong Kong
+PhD in Geography, University of Hong Kong, Hong Kong
 
 Supervisor: [Dr. Raffaele Lafortezza ]()
 
 ## 2017-2019
-MSc in LIESMARS, Wuhan Univeristy, China
+MSc in Geomatics Engineering, Wuhan Univeristy, China
 
 Supervisor: [Prof. Zhu Xinyan](http://www.lmars.whu.edu.cn/prof_web/zhuxinyan/index.html)
 
 ## 2013-2017
-BSc in School of Geodesy and Geomatics, Wuhan University, China
+BSc in Geomatics Engineering, Wuhan University, China
 
 
 #  PUBLICATIONS                                                   
